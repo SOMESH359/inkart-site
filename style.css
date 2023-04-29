@@ -17,7 +17,7 @@ font-family: 'Times New Roman', Times, serif;
     text-transform: uppercase;
     font-weight: 500;
     background-size: cover;
-    background-image: url(https://img.freepik.com/free-vector/abstract-background_53876-43362.jpg?w=2000);
+    background-image: url("https://img.freepik.com/free-vector/abstract-background_53876-43362.jpg?w=2000");
        -webkit-background-clip: text;
     background-clip: text;
     animation: background-text-animation 50s linear infinite;
